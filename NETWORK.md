@@ -1,10 +1,15 @@
-# AI Health Tracker
+# 🌐 Zion App Network — Interlinks
 
-Wellness insights and medical data analysis.
+**ai-health-tracker** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-healthcare-platform](https://github.com/Zion-support/ai-healthcare-platform) · [ai-coach](https://github.com/Zion-support/ai-coach) · [ai-industry-solutions](https://github.com/Zion-support/ai-industry-solutions) · [zion-ai-data-anonymizer](https://github.com/Zion-support/zion-ai-data-anonymizer)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-recipe-generator](https://github.com/Zion-support/ai-recipe-generator) — personalized meal planning
+- [ai-education-platform](https://github.com/Zion-support/ai-education-platform) — AI-powered tutoring
+- [ai-document-summarizer](https://github.com/Zion-support/ai-document-summarizer) — long-document insights
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
